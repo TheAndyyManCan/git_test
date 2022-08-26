@@ -1,0 +1,4 @@
+Here's some text that I was told to add to this file 
+No idea why
+Wonder if Git will actually be useful
+Only time will tell 
